@@ -1,1 +1,1 @@
-# paint-github-e3837
+# Paint-Github
